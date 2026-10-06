@@ -1,0 +1,5 @@
+OpenWA/
+.env
+*.key
+.api-key
+data/

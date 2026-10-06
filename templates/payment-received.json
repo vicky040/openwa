@@ -1,0 +1,6 @@
+{
+  "name": "payment-received",
+  "header": "✅ *Payment Receipt*",
+  "body": "Hi {{customer}},\n\nThank you! We have received your payment.\n\n*Amount:* {{amount}}\n*Order/Invoice:* {{orderId}}\n*Date:* {{date}}\n*Method:* {{method}}\n\nIf you have any questions, just reply to this message.",
+  "footer": "Thank you for your business 🙏"
+}
